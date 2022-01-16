@@ -1,0 +1,10 @@
+
+Open Weather map api id 
+183adc85d2c043d5908d390907545084
+
+
+api.openweathermap.org/data/2.5/weather?q=pune&appid=183adc85d2c043d5908d390907545084
+
+Air Pollution API 
+
+http://api.openweathermap.org/data/2.5/air_pollution?lat=25.613450&lon=85.159960&appid=183adc85d2c043d5908d390907545084
